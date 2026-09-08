@@ -8,6 +8,15 @@
 
 **Kardeşlik Haritası**, YGA'nın *"Çift Kanatlı Vicdanlı Liderlik"* yaklaşımını, Birbirini Geliştiren Kadınlar (BGK) topluluğunun güçlü kız kardeşlik bağıyla birleştiren; öğrenilenlerin dijitalde pekişmesini sağlayan, yol gösteren ve ilham veren senaryo tabanlı bir etkileşim modülüdür.
 
+## 📸 Arayüz & Ekran Görüntüleri
+
+### 1. Ana Giriş ve Kanat Seçimi Ekranı
+Kullanıcılar uygulamaya başlarken uzmanlaşmak istedikleri alanı ("Teknik Beceriler" veya "Sosyal Beceriler") seçerek kişiselleştirilmiş yolculuklarına adım atarlar.
+
+![Çift Kanatlı Bireyler](https://github.com/user-attachments/assets/c427d5f2-197a-4e39-9457-e0815fc80c56)
+
+---
+
 ## 📌 Problem Tanımı ve Amaç
 
 BGK katılımcıları her hafta canlı yayınlar ve zengin içeriklerle öğrenim sağlarlar. Ancak teori, pratikle birleşmediğinde zamanla unutulabilir. 
@@ -56,11 +65,3 @@ npm install
 # 4. Geliştirici sunucusunu başlatın
 npm run dev
 
----
-
-## 📸 Arayüz & Ekran Görüntüleri
-
-### 1. Ana Giriş ve Kanat Seçimi Ekranı
-Kullanıcılar uygulamaya başlarken uzmanlaşmak istedikleri alanı ("Teknik Beceriler" veya "Sosyal Beceriler") seçerek kişiselleştirilmiş yolculuklarına adım atarlar.
-
-![Çift Kanatlı Bireyler](https://github.com/user-attachments/assets/c427d5f2-197a-4e39-9457-e0815fc80c56)

@@ -38,3 +38,20 @@ Proje, herkes için erişilebilir ve hızlı bir No-Code / Web altyapısı ile t
 - **🔊 Erişilebilirlik (WeWalk İlhamı):** YGA’nın akıllı baston projesi *WeWalk*'tan ilham alınarak eklenen **TTS (Text-to-Speech)** desteği sayesinde tüm senaryolar, sorular ve butonlar görme engelli kullanıcılar için sesli rehber ile açıklanabilmektedir.
 
 ---
+
+## 🚀 Yerel Kurulum (Local Setup)
+
+Projeyi kendi bilgisayarınızda çalıştırmak için:
+
+```bash
+# 1. Depoyu klonlayın
+git clone [https://github.com/Buse-Bilici/double-winged-individual.git](https://github.com/Buse-Bilici/double-winged-individual.git)
+
+# 2. Proje dizinine gidin
+cd double-winged-individual
+
+# 3. Bağımlılıkları yükleyin
+npm install
+
+# 4. Geliştirici sunucusunu başlatın
+npm run dev

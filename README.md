@@ -56,9 +56,11 @@ npm install
 # 4. Geliştirici sunucusunu başlatın
 npm run dev
 
+---
+
 ## 📸 Arayüz & Ekran Görüntüleri
 
 ### 1. Ana Giriş ve Kanat Seçimi Ekranı
 Kullanıcılar uygulamaya başlarken uzmanlaşmak istedikleri alanı ("Teknik Beceriler" veya "Sosyal Beceriler") seçerek kişiselleştirilmiş yolculuklarına adım atarlar.
 
-<img width="827" height="395" alt="image" src="https://github.com/user-attachments/assets/c427d5f2-197a-4e39-9457-e0815fc80c56" />
+![Çift Kanatlı Bireyler](https://github.com/user-attachments/assets/c427d5f2-197a-4e39-9457-e0815fc80c56)

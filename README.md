@@ -2,11 +2,11 @@
 
 [![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-lxtf7mmo)
 
-Kardeşlik Haritası 🗝️🕊️
+# Kardeşlik Haritası 🗝️🕊️
 
 > **"Bu sadece bir oyun değil; kendini tanıma yolculuğu, empatinin en yüksek puanı aldığı bir evren."**
 
-# **Kardeşlik Haritası**, YGA'nın *"Çift Kanatlı Vicdanlı Liderlik"* yaklaşımını, Birbirini Geliştiren Kadınlar (BGK) topluluğunun güçlü kız kardeşlik bağıyla birleştiren; öğrenilenlerin dijitalde pekişmesini sağlayan, yol gösteren ve ilham veren senaryo tabanlı bir etkileşim modülüdür.
+**Kardeşlik Haritası**, YGA'nın *"Çift Kanatlı Vicdanlı Liderlik"* yaklaşımını, Birbirini Geliştiren Kadınlar (BGK) topluluğunun güçlü kız kardeşlik bağıyla birleştiren; öğrenilenlerin dijitalde pekişmesini sağlayan, yol gösteren ve ilham veren senaryo tabanlı bir etkileşim modülüdür.
 
 ## 📌 Problem Tanımı ve Amaç
 
@@ -27,5 +27,14 @@ Uygulama, kullanıcının seçtiği kanada (**Sosyal Modül** veya **Teknik Mod�
 2. **🎭 Role Arena (Kriz Simülasyonu):** Gerçek hayat senaryoları üzerinden rol kartları ve kriz yönetimi.
 3. **⏳ Escape Room (Zamanlı Görev):** Zaman kısıtı altında ipuçlarını çözerek ilerleme.
 4. **💌 Mission Wall (Kardeşlik Kartları):** Topluluk içi etkileşimi artıran dijital kartlar ve "Gelecek Sözü" bölümü.
+
+---
+
+## ♿ Teknoloji ve Erişilebilirlik Özellikleri
+
+Proje, herkes için erişilebilir ve hızlı bir No-Code / Web altyapısı ile tasarlanmıştır:
+
+- **Altyapı & Tasarım:** Bolt.new (Kart bazlı dinamik akış), Canva AI görsel tasarımları.
+- **🔊 Erişilebilirlik (WeWalk İlhamı):** YGA’nın akıllı baston projesi *WeWalk*'tan ilham alınarak eklenen **TTS (Text-to-Speech)** desteği sayesinde tüm senaryolar, sorular ve butonlar görme engelli kullanıcılar için sesli rehber ile açıklanabilmektedir.
 
 ---

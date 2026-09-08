@@ -65,3 +65,12 @@ npm install
 # 4. Geliştirici sunucusunu başlatın
 npm run dev
 
+---
+
+
+## 📸 Ekran Görüntüleri ve Kullanıcı Akışı Detayları
+
+### 1. Teknik Beceriler Kanadı
+![Teknik Beceri Alanları](https://github.com/user-attachments/assets/c0d5aa84-4111-44c2-827e-eabf1b0e2158)
+
+

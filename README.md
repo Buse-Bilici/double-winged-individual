@@ -64,7 +64,7 @@ npm install
 
 # 4. Geliştirici sunucusunu başlatın
 npm run dev
-
+**```**
 ---
 
 

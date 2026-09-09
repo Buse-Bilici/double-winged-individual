@@ -83,3 +83,8 @@ Test tamamlandığında kullanıcıya toplam puan, doğruluk oranı ve kazanıla
 ### 2. Sosyal Beceriler Kanadı
 ![Sosyal Beceri Adımları](https://github.com/user-attachments/assets/a45217a9-40b5-452d-a49f-607b62a4989d)
 
+
+### 💌 Posta Kutusu & İlham Verici Mesajlar
+Kullanıcılar modülleri ve testleri başarıyla tamamladıkça yeni ilham mesajlarının ve "Günün Sözü" içeriklerinin kilidini açarlar. Bu mekanizma öğrenim motivasyonunu ve sürekliliği artırmayı hedefler.
+
+

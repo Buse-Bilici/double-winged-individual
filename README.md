@@ -79,3 +79,7 @@ npm run dev
 Test tamamlandığında kullanıcıya toplam puan, doğruluk oranı ve kazanılan başarı unvanı gösterilir. Ayrıca soruların detaylı çözümleri ve açıklayıcı geri bildirimler sunularak öğrenme süreci pekiştirilir.
 
 ![Siber Güvenlik Test Sonucu](https://github.com/user-attachments/assets/33cc9c45-e987-452e-a9c0-b18959b5c91e)
+
+### 2. Sosyal Beceriler Kanadı
+![Sosyal Beceri Adımları](https://github.com/user-attachments/assets/a45217a9-40b5-452d-a49f-607b62a4989d)
+

@@ -87,4 +87,4 @@ Test tamamlandığında kullanıcıya toplam puan, doğruluk oranı ve kazanıla
 ### 💌 Posta Kutusu & İlham Verici Mesajlar
 Kullanıcılar modülleri ve testleri başarıyla tamamladıkça yeni ilham mesajlarının ve "Günün Sözü" içeriklerinin kilidini açarlar. Bu mekanizma öğrenim motivasyonunu ve sürekliliği artırmayı hedefler.
 
-
+![Posta Kutusu ve İlham Mesajları](https://github.com/user-attachments/assets/c956e2ec-76f6-49a8-aa65-bf93cc1de7e8)

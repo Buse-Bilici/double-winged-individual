@@ -75,3 +75,7 @@ npm run dev
 ![Teknik Beceri Alanları](https://github.com/user-attachments/assets/c0d5aa84-4111-44c2-827e-eabf1b0e2158)
 
 
+### 🎯 Test Sonucu ve Performans Raporu
+Test tamamlandığında kullanıcıya toplam puan, doğruluk oranı ve kazanılan başarı unvanı gösterilir. Ayrıca soruların detaylı çözümleri ve açıklayıcı geri bildirimler sunularak öğrenme süreci pekiştirilir.
+
+![Siber Güvenlik Test Sonucu](https://github.com/user-attachments/assets/33cc9c45-e987-452e-a9c0-b18959b5c91e)
